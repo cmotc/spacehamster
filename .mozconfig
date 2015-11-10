@@ -1,0 +1,3 @@
+ac_add_options --enable-application=suite
+mk_add_options MOZ_OBJDIR=/path/to/comm-central/obj-sm-release
+mk_add_options MOZ_MAKE_FLAGS="-j4"
